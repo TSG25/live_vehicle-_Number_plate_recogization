@@ -7,3 +7,6 @@
 step1 - download these three data sets
 step2 - run ANRO File
 step3 - run Runfile
+
+
+![upload](https://github.com/TSG25/live_vehicle-_Number_plate_recogization/assets/143053924/eca2c93f-f94d-44e9-a26f-65be53faab4c)
