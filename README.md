@@ -4,6 +4,6 @@
 2-https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 3-https://www.kaggle.com/datasets/nimishshandilya/car-number-plate-video
 
-step1 - download these 3 data sets
+step1 - download these three data sets
 step2 - run ANRO File
 step3 - run Runfile
